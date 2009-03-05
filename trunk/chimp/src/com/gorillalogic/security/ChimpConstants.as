@@ -4,11 +4,12 @@ package com.gorillalogic.security
 	{ 
 		public static const PROTECTED_ANNOTATION_NAME:String = "Protected";
 		
-		public static const ACTION_REMOVE:String = "remove";
-		public static const ACTION_INVISABLE:String = "invisable";
+		public static const ACTION_REMOVE_CHILD:String = "removeChild";
+		public static const ACTION_REMOVE_FROM_LAYOUT:String = "removeFromLayout";		
+		public static const ACTION_INVISABLE:String = "invisible";
 		public static const ACTION_DISABLE:String = "disable";
 		public static const ACTION_ENABLE:String = "enable";
-		public static const ACTION_VISABLE:String = "visable";
+		public static const ACTION_VISABLE:String = "visible";
 		
 		public static const PARENT_STRING:String = "this";
 			
