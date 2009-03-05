@@ -10,6 +10,7 @@ package com.gorillalogic.security
 		
 		public var comp:UIComponent;
 		public var parentComp:UIComponent;
+		public var childPosition:int;
 		public var permissions:String;
 		public var inPermissionAction:String;
 		public var notInPermissionAction:String;

@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <flexLibProperties version="1">
 <includeClasses>
+<classEntry path="com.gorillalogic.security.ChimpActionCache"/>
 <classEntry path="com.gorillalogic.security.Chimp"/>
-<classEntry path="com.gorillalogic.security.ChimpAction"/>
 <classEntry path="com.gorillalogic.security.ChimpConstants"/>
+<classEntry path="com.gorillalogic.security.ChimpAction"/>
 </includeClasses>
 <includeResources/>
 <namespaceManifests/>
